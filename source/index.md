@@ -12,6 +12,8 @@ In general, Plan9 is considered beyond the average computer user's knowledge. We
 :maxdepth: 2
 :glob:
 
+singleserver/select-and-download-distribution
+singleserver/create-installation-media
 singleserver/installation
 singleserver/acknowledgments
 ```
